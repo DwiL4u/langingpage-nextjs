@@ -17,10 +17,10 @@ const ReviewCard = ({ name, image }: Props) => {
       <div className="grid grid-cols-1 lg:grid-cols-5 gap-6 items-center ">
         <div className="col-span-3 order-2 lg:order-1">
           <p className="mt-8 text-sm sm:text-base md:text-lg font-medium leading-[1.5rem] sm:leading-[1.8rem] md:leading-[2.5rem]">
-            "The analytics tools here are incredibly powerful and easy to use. I
+            The analytics tools here are incredibly powerful and easy to use. I
             love how everything is laid out on the dashboard—makes it simple to
             track performance and optimize campaigns in real-time. A great
-            resource for anyone serious about data-driven growth!"
+            resource for anyone serious about data-driven growth!
           </p>
           <div className="flex items-center mt-6">
             <FaStar className="text-yellow-500 w-6 h-6" />

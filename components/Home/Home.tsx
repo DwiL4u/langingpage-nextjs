@@ -42,7 +42,5 @@ const Home = () => {
 
 export default Home;
 
-function initAOS(): React.DependencyList | undefined {
-      throw new Error('Function not implemented.');
-}
+
 
